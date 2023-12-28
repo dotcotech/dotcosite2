@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2023 Dotco Technologies by{' '}
+            &copy; 2024 Dotco Technologies by{' '}
             <a href='http://www.mannycodes.com' rel='nofollow'>
               mannycodes.com
             </a>
